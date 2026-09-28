@@ -1,0 +1,10 @@
+{
+  "total_requests": 27,
+  "blocked_requests": 11,
+  "block_rate": 0.4074074074074074,
+  "rate_limit_hits": 1,
+  "judge_checks": 0,
+  "judge_fails": 0,
+  "judge_fail_rate": 0.0,
+  "alerts": []
+}
